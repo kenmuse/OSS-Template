@@ -1,6 +1,6 @@
-Template
+# Project Name
 
-## Your Project Name
+## About
 
 Describe what does this project does in one line followed by your project logo if you have one. e.g., who might be interested in it, what language its written in, and how it might be different from similar projects.
 
